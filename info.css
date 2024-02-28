@@ -1,0 +1,70 @@
+.recipe-div{
+ padding:  10px 40px;
+ text-align: center;
+ margin-bottom: 10px;
+ font-size: 18px;
+
+}
+h1{
+    text-align: center;
+}
+nav{
+    background-color: lightblue;
+    
+    margin-bottom: 10px;
+    text-align: center;
+  height: 50px;
+  width: 1500px;
+}
+footer{
+    background-color: gray;
+    text-align: center;
+}
+.hamleft{
+ border: 1px solid black;
+    width: 300px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.hamrigth{
+   border: 1px solid black;
+    width: 700px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.contenedor{
+    display: flex;
+
+}
+body{
+    background-color: bisque;
+}
+.comida{
+    height: 300px;
+    text-align: center;
+    border-radius: 50%;
+}
+.cajaderopa{
+height: 200px;
+width: 300;
+display: flex;
+}
+.camisa{
+    border: 5px solid black;
+padding: 5px;
+margin:70px;
+height: 240px;
+width: 200px;
+background-color: white;
+}
+.comi{
+    height: 200px;
+    margin: 70px;
+}
+.malo{
+    height: 200px;
+    margin: 30px;
+    text-align: center;
+}
+.foto{
+    padding: 3px solid black;
+    margin: 4px;
+}
